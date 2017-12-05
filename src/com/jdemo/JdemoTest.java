@@ -6,7 +6,7 @@ public class JdemoTest {
 		// TODO Auto-generated method stub
 		
 		System.out.print("nin haowwwww !");
-		
+		System.out.print("nin haowwwww !");
 	
 		System.out.print("nin hKKKddddkjkµÄÈË!");
 
