@@ -7,7 +7,7 @@ public class JdemoTest {
 		
 		System.out.print("nin hao !");
 		
-		System.out.print("nin hao3 !");
+		System.out.print("nin hao4 !");
 
 
 	}
