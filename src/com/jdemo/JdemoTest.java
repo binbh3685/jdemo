@@ -8,7 +8,7 @@ public class JdemoTest {
 		System.out.print("nin haowwwww !");
 		System.out.print("nin haowwwww !");
 	
-		System.out.print("nin hKKKddddkjk的人!");
+		System.out.print("nin hKKKddddkjk的人!"+"dddddddddd");
 
 
 	}
