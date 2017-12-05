@@ -7,7 +7,7 @@ public class JdemoTest {
 		
 		System.out.print("nin haowwwww !");
 		
-		
+		System.out.print("nin haowwwww !");
 		System.out.print("nin hKKKÉ±É±É±aoddddkjkµÄÈË!");
 
 
