@@ -5,10 +5,10 @@ public class JdemoTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.print("nin haowwwww !");
+		System.out.print("nin haå—¡å—¡å—¡owwwww !");
 		System.out.print("nin haowwwww !");
 	
-		System.out.print("nin hKKKddddkjkµÄÈË!"+"dddddddddd");
+		System.out.print("nin hKKKddddkjkÂµÃ„ÃˆÃ‹!"+"dddddddddd");
 
 
 	}
